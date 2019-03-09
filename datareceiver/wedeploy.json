@@ -1,0 +1,5 @@
+{
+    "id": "datareceiver",
+    "memory": 1024,
+    "zeroDowntime": false
+  }
