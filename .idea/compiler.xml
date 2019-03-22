@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="com.oasis.datareceiver.main" target="1.8" />
       <module name="com.oasis.datareceiver.test" target="1.8" />
+      <module name="com.oasis.graphrest.main" target="1.8" />
+      <module name="com.oasis.graphrest.test" target="1.8" />
       <module name="com.oasis.topologicalorder.main" target="1.8" />
       <module name="com.oasis.topologicalorder.test" target="1.8" />
     </bytecodeTargetLevel>

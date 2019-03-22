@@ -1,0 +1,5 @@
+{
+    "id": "graphrest",
+    "memory": 1024,
+    "zeroDowntime": false
+  }
